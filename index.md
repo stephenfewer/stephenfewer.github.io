@@ -20,7 +20,7 @@ The following publicly disclosed vulnerabilities were discovered through origina
 |Date|CVE|Title|
 |-|-|-|
 |19 Mar 2019|CVE-2019-9802|[Mozilla Firefox Chrome process information leak](https://www.mozilla.org/en-US/security/advisories/mfsa2019-07/#CVE-2019-9802)|
-|23 Jan 2018|CVE-2018-5090|[Mozilla Firefox ParamTraits<nsAString> Deserialization - Integer Overflow](https://bugzilla.mozilla.org/show_bug.cgi?id=1412313)|
+|23 Jan 2018|CVE-2018-5090|[Mozilla Firefox ParamTraits nsAString Deserialization - Integer Overflow](https://bugzilla.mozilla.org/show_bug.cgi?id=1412313)|
 |23 Jan 2018|CVE-2018-5090|[Mozilla Firefox PluginModuleChromeParent::AnswerGetFileName - Grant Arbitrary File Read Access.](https://bugzilla.mozilla.org/show_bug.cgi?id=1411631)|
 |23 Jan 2018|CVE-2018-5090|[Mozilla Firefox PluginModuleChromeParent::AnswerGetFileName - Heap Buffer Overflow](https://bugzilla.mozilla.org/show_bug.cgi?id=1410140)|
 |08 Aug 2017|CVE-2017-7804|[Mozilla Firefox Memory protection bypass through WindowsDllDetourPatcher](https://www.mozilla.org/en-US/security/advisories/mfsa2017-19/)|
