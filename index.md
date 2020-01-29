@@ -23,7 +23,7 @@ The following publicly disclosed vulnerabilities were discovered through origina
 |23 Jan 2018|CVE-2018-5090|[Mozilla Firefox ParamTraits nsAString Deserialization - Integer Overflow](https://bugzilla.mozilla.org/show_bug.cgi?id=1412313)|
 |23 Jan 2018|CVE-2018-5090|[Mozilla Firefox PluginModuleChromeParent::AnswerGetFileName - Grant Arbitrary File Read Access.](https://bugzilla.mozilla.org/show_bug.cgi?id=1411631)|
 |23 Jan 2018|CVE-2018-5090|[Mozilla Firefox PluginModuleChromeParent::AnswerGetFileName - Heap Buffer Overflow](https://bugzilla.mozilla.org/show_bug.cgi?id=1410140)|
-|08 Aug 2017|CVE-2017-7804|[Mozilla Firefox Memory protection bypass through WindowsDllDetourPatcher](https://www.mozilla.org/en-US/security/advisories/mfsa2017-19/)|
+|08 Aug 2017|CVE-2017-7804|[Mozilla Firefox Memory protection bypass through WindowsDllDetourPatcher](https://www.mozilla.org/en-US/security/advisories/mfsa2017-19/#CVE-2017-7804)|
 |10 Feb 2015|CVE-2015-0046|[Microsoft Internet Explorer Type Confusion Info Disclosure Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-15-028/)|
 |10 June 2014|CVE-2014-1775|[Microsoft Internet Explorer CPeerFactoryUrlMap Use After Free Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-14-175/)|
 |10 June 2014|CVE-2014-2772|[Microsoft Internet Explorer textContent Heap Buffer Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-14-185/)|
