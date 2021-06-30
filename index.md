@@ -91,7 +91,8 @@ Projects
 --------
 The following is a selection of publicly available software projects Stephen has developed.
 
-* [Relyze](https://www.relyze.com/overview.html) is a commercial interactive software analysis solution.
+* [WonderLeak](https://www.relyze.com/wonderleak_overview.html) is a commercial Windows allocation profiler.
+* [Relyze Desktop](https://www.relyze.com/overview.html) is a commercial interactive software analysis solution.
 * [Grinder](https://github.com/stephenfewer/grinder) is a system to automate the fuzzing of web browsers and the management of a large number of crashes.
 * [Reflective DLL Injection](https://github.com/stephenfewer/ReflectiveDLLInjection) is a Windows (x86, x64, ARM) library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.
 * [OllySocketTrace](https://github.com/stephenfewer/OllySocketTrace) is a plugin for OllyDbg to trace the socket operations being performed by a process, recording all buffers being sent and received.
