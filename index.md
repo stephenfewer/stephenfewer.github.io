@@ -23,6 +23,10 @@ The following publicly disclosed vulnerabilities were discovered through origina
 
 |Date|CVE|Title|
 |-|-|-|
+|03 Jan 2022|CVE-2022-20712|[Cisco Small Business RV Series Routers Upload Module Remote Code Execution Vulnerability](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D)|
+|03 Jan 2022|CVE-2022-20707|[Cisco RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers Command Injection Vulnerabilities](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D)|
+|03 Jan 2022|CVE-2022-20705|[Cisco Small Business RV Series Routers Improper Session Management Vulnerability](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D)|
+|03 Jan 2022|CVE-2022-20700|[Cisco Small Business RV Series Routers Privilege Escalation Vulnerabilities](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D)|
 |08 Sept 2020|CVE-2020-16854|[Microsoft Windows Kernel Information Disclosure Vulnerability](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-16854)|
 |19 Mar 2019|CVE-2019-9802|[Mozilla Firefox Chrome process information leak](https://www.mozilla.org/en-US/security/advisories/mfsa2019-07/#CVE-2019-9802)|
 |23 Jan 2018|CVE-2018-5090|[Mozilla Firefox ParamTraits nsAString Deserialization - Integer Overflow](https://bugzilla.mozilla.org/show_bug.cgi?id=1412313)|
