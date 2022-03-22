@@ -23,7 +23,7 @@ The following publicly disclosed vulnerabilities were discovered through origina
 
 |Date|CVE|Title|
 |-|-|-|
-|17 March 2022||[Netgear Pre-Authentication Buffer Overflow on Multiple Products](https://kb.netgear.com/000064720/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Multiple-Products-PSV-2021-0323)|
+|17 Mar 2022||[Netgear Pre-Authentication Buffer Overflow on Multiple Products](https://kb.netgear.com/000064720/Security-Advisory-for-Pre-Authentication-Buffer-Overflow-on-Multiple-Products-PSV-2021-0323)|
 |03 Jan 2022|CVE-2022-20712|[Cisco Small Business RV Series Routers Upload Module Remote Code Execution Vulnerability](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D)|
 |03 Jan 2022|CVE-2022-20707|[Cisco RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers Command Injection Vulnerabilities](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D)|
 |03 Jan 2022|CVE-2022-20705|[Cisco Small Business RV Series Routers Improper Session Management Vulnerability](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D)|
