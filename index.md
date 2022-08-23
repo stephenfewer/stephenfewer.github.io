@@ -8,17 +8,14 @@ Stephen Fewer
 Summary
 -------
 
-Stephen is a consultant software engineer with 18 years’ experience. Specializing in low level software research and development in the fields of software vulnerabilities, reverse engineering, and developer tooling. Excited to learn new technologies and solve complex problems.
+Stephen is a consultant software engineer with 18 years’ experience and founded [Relyze Software Limited](https://www.relyze.com/). Specializing in low level software research and development in the fields of software vulnerabilities, reverse engineering, and developer tooling. Excited to learn new technologies and solve complex problems.
 
 Stephen is a native English speaker based in Cork City, Ireland and can work effectively in a remote environment across teams and time zones.
 
 Contact
 -------
 
-* [Email](mailto://FIRSTNAME@relyze.com)
-* [Twitter](https://twitter.com/stephenfewer)
-* [LinkedIn](https://www.linkedin.com/in/stephenfewer)
-* [GitHub](https://github.com/stephenfewer)
+[Email](mailto://FIRSTNAME@relyze.com) | [Twitter](https://twitter.com/stephenfewer) | [LinkedIn](https://www.linkedin.com/in/stephenfewer) | [GitHub](https://github.com/stephenfewer)
 
 Awards
 ------
@@ -29,7 +26,7 @@ Awards
 
 Vulnerabilities
 ---------------
-The following publicly disclosed vulnerabilities were discovered through original research.
+The following 68 publicly disclosed vulnerabilities were discovered through original research.
 
 |Date|CVE|Title|
 |-|-|-|
