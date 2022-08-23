@@ -5,9 +5,12 @@ layout: default
 Stephen Fewer
 =============
 
-Bio
----
-Stephen is a software security consultant based in Ireland; focusing on reverse engineering, vulnerability discovery, and exploitation research and development. Stephen possesses a highly technical background and has been an active member of both the security and open source community since 1999. Stephen has previously worked as an independent security consultant, an anti-malware engineer for a leading global anti-virus company, a developer for an enterprise level performance engineering company, a core developer for the [Metasploit Framework](https://github.com/rapid7/metasploit-framework/graphs/contributors?from=2005-03-20&type=a) circa 2009 - 2013, 30th in the Microsoft Security Response Centre (MSRC) Top 100 researchers for [2015](https://miro.medium.com/max/553/1*6xtua1ck84kDeO8q5eBO9w.jpeg), a successful contestant at the [2011](https://www.zdnet.com/article/pwn2own-2011-ie8-on-windows-7-hijacked-with-3-vulnerabilities/) and [2021](https://www.zerodayinitiative.com/blog/2021/11/1/pwn2ownaustin) Pwn2Own hacking competition. In 2015 Stephen founded [Relyze Software Limited](https://www.relyze.com/), offering commercial software analysis solutions and professional services.
+Summary
+-------
+
+Stephen is a consultant software engineer with 18 years’ experience. Specializing in low level software research and development in the fields of software vulnerabilities, reverse engineering, and developer tooling. Excited to learn new technologies and solve complex problems.
+
+Stephen is a native English speaker based in Cork City, Ireland and can work effectively in a remote environment across teams and time zones.
 
 Contact
 -------
@@ -16,6 +19,13 @@ Contact
 * [Twitter](https://twitter.com/stephenfewer)
 * [LinkedIn](https://www.linkedin.com/in/stephenfewer)
 * [GitHub](https://github.com/stephenfewer)
+
+Awards
+------
+
+* [Pwn2Own 2021](https://www.zerodayinitiative.com/blog/2021/11/1/pwn2ownaustin) - Successfully competed at Pwn2Own 2021, exploiting both a Cisco RV340 and Netgear R6700v3 network router.
+* MSRC Top 100 - Awarded 30th in the Microsoft Security Response Centre (MSRC) Top 100 researchers for 2015.
+* [Pwn2Own 2011](https://www.zdnet.com/article/pwn2own-2011-ie8-on-windows-7-hijacked-with-3-vulnerabilities/) - Successfully competed at Pwn2Own 2011, exploiting Microsoft Internet Explorer (IE) 8 on Windows 7 SP1.
 
 Vulnerabilities
 ---------------
