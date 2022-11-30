@@ -8,14 +8,16 @@ Stephen Fewer
 Summary
 -------
 
-Stephen is a consultant software engineer with 18 years’ experience and founded [Relyze Software Limited](https://www.relyze.com/). Specializing in low level software research and development in the fields of software vulnerabilities, reverse engineering, and developer tooling. Excited to learn new technologies and solve complex problems.
+Stephen is a software engineer specializing in low level software research and development in the fields of software vulnerabilities and exploitation, reverse engineering, and developer tooling. Excited to learn new technologies and solve complex problems.
 
 Stephen is a native English speaker based in Cork City, Ireland and can work effectively in a remote environment across teams and time zones.
 
 Contact
 -------
 
-[Email](mailto://FIRSTNAME@relyze.com) | [Twitter](https://twitter.com/stephenfewer) | [LinkedIn](https://www.linkedin.com/in/stephenfewer) | [GitHub](https://github.com/stephenfewer)
+* [LinkedIn](https://www.linkedin.com/in/stephenfewer)
+* [Twitter](https://twitter.com/stephenfewer)
+* [GitHub](https://github.com/stephenfewer)
 
 Awards
 ------
@@ -103,8 +105,8 @@ Projects
 --------
 The following is a selection of publicly available software projects Stephen has developed.
 
-* [WonderLeak](https://www.relyze.com/wonderleak_overview.html) is a commercial Windows allocation profiler.
-* [Relyze Desktop](https://www.relyze.com/overview.html) is a commercial interactive software analysis solution.
+* [WonderLeak](https://www.relyze.com/wonderleak.html) is a Windows allocation profiler.
+* [Relyze](https://www.relyze.com/) is an interactive software reverse engineering tool to disassemble, decompile and binary diff native code software.
 * [Grinder](https://github.com/stephenfewer/grinder) is a system to automate the fuzzing of web browsers and the management of a large number of crashes.
 * [Reflective DLL Injection](https://github.com/stephenfewer/ReflectiveDLLInjection) is a Windows (x86, x64, ARM) library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.
 * [OllySocketTrace](https://github.com/stephenfewer/OllySocketTrace) is a plugin for OllyDbg to trace the socket operations being performed by a process, recording all buffers being sent and received.
