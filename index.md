@@ -28,10 +28,12 @@ Awards
 
 Vulnerabilities
 ---------------
-The following 68 publicly disclosed vulnerabilities were discovered through original research.
+The following 70 publicly disclosed vulnerabilities were discovered through original research.
 
 |Date|CVE|Title|
 |-|-|-|
+|19 Mar 2023|CVE-2023-38205|[Adobe ColdFusion Access Control Bypass (Patch Bypass)](https://www.rapid7.com/blog/post/2023/07/19/cve-2023-38205-adobe-coldfusion-access-control-bypass-fixed/)|
+|11 Mar 2023|CVE-2023-29298|[Adobe ColdFusion Access Control Bypass](https://www.rapid7.com/blog/post/2023/07/11/cve-2023-29298-adobe-coldfusion-access-control-bypass/)|
 |17 Mar 2022|CVE-2022-27643|[NETGEAR R6700v3 upnpd Buffer Overflow Remote Code Execution Vulnerability](https://www.zerodayinitiative.com/advisories/ZDI-22-519/)|
 |03 Jan 2022|CVE-2022-20712|[Cisco Small Business RV Series Routers Upload Module Remote Code Execution Vulnerability](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D)|
 |03 Jan 2022|CVE-2022-20707|[Cisco RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers Command Injection Vulnerabilities](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-smb-mult-vuln-KA9PK6D)|
