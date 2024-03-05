@@ -28,10 +28,12 @@ Awards
 
 Vulnerabilities
 ---------------
-The following 72 publicly disclosed vulnerabilities were discovered through original research.
+The following 74 publicly disclosed vulnerabilities were discovered through original research.
 
 |Date|CVE|Title|
 |-|-|-|
+|04 Mar 2024|CVE-2024-27199|[JetBrains TeamCity High Severity Authentication Bypass](https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/)|
+|04 Mar 2024|CVE-2024-27198|[JetBrains TeamCity Critical Severity Authentication Bypass](https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/)|
 |13 Feb 2024|CVE-2023-47218|[QNAP QTS and QuTS Hero Unauthenticated Command Injection](https://www.rapid7.com/blog/post/2024/02/13/cve-2023-47218-qnap-qts-and-quts-hero-unauthenticated-command-injection-fixed/)|
 |02 Aug 2023|CVE-2023-35082|[Ivanti Endpoint Manager Mobile (EPMM) and MobileIron Core Unauthenticated API Access](https://www.rapid7.com/blog/post/2023/08/02/cve-2023-35082-mobileiron-core-unauthenticated-api-access-vulnerability/)|
 |19 July 2023|CVE-2023-38205|[Adobe ColdFusion Access Control Bypass (Patch Bypass)](https://www.rapid7.com/blog/post/2023/07/19/cve-2023-38205-adobe-coldfusion-access-control-bypass-fixed/)|
