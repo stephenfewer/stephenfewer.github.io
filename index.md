@@ -17,6 +17,7 @@ Contact
 
 * [LinkedIn](https://www.linkedin.com/in/stephenfewer)
 * [Twitter](https://twitter.com/stephenfewer)
+* [BlueSky](https://bsky.app/profile/stephenfewer.bsky.social)
 * [GitHub](https://github.com/stephenfewer)
 
 Awards
@@ -28,10 +29,15 @@ Awards
 
 Vulnerabilities
 ---------------
-The following 74 publicly disclosed vulnerabilities were discovered through original research.
+The following 79 publicly disclosed vulnerabilities were discovered through original research.
 
 |Date|CVE|Title|
 |-|-|-|
+|03 Dec 2024|CVE-2024-52544|[Lorex 2K Indoor Wi-Fi Security Camera - Stack buffer overflow](https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/)|
+|03 Dec 2024|CVE-2024-52545|[Lorex 2K Indoor Wi-Fi Security Camera - Out of bounds heap read](https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/)|
+|03 Dec 2024|CVE-2024-52546|[Lorex 2K Indoor Wi-Fi Security Camera - Null pointer dereference](https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/)|
+|03 Dec 2024|CVE-2024-52547|[Lorex 2K Indoor Wi-Fi Security Camera - Stack buffer overflow](https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/)|
+|03 Dec 2024|CVE-2024-52548|[Lorex 2K Indoor Wi-Fi Security Camera - Code signing bypass](https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/)|
 |04 Mar 2024|CVE-2024-27199|[JetBrains TeamCity High Severity Authentication Bypass](https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/)|
 |04 Mar 2024|CVE-2024-27198|[JetBrains TeamCity Critical Severity Authentication Bypass](https://www.rapid7.com/blog/post/2024/03/04/etr-cve-2024-27198-and-cve-2024-27199-jetbrains-teamcity-multiple-authentication-bypass-vulnerabilities-fixed/)|
 |13 Feb 2024|CVE-2023-47218|[QNAP QTS and QuTS Hero Unauthenticated Command Injection](https://www.rapid7.com/blog/post/2024/02/13/cve-2023-47218-qnap-qts-and-quts-hero-unauthenticated-command-injection-fixed/)|
