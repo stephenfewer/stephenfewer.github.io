@@ -29,10 +29,11 @@ Awards
 
 Vulnerabilities
 ---------------
-The following 79 publicly disclosed vulnerabilities were discovered through original research.
+The following 80 publicly disclosed vulnerabilities were discovered through original research.
 
 |Date|CVE|Title|
 |-|-|-|
+|13 Feb 2025|CVE-2025-1094|[PostgreSQL psql SQL injection](https://www.rapid7.com/blog/post/2025/02/13/cve-2025-1094-postgresql-psql-sql-injection-fixed/)|
 |03 Dec 2024|CVE-2024-52544|[Lorex 2K Indoor Wi-Fi Security Camera - Stack buffer overflow](https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/)|
 |03 Dec 2024|CVE-2024-52545|[Lorex 2K Indoor Wi-Fi Security Camera - Out of bounds heap read](https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/)|
 |03 Dec 2024|CVE-2024-52546|[Lorex 2K Indoor Wi-Fi Security Camera - Null pointer dereference](https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/)|
