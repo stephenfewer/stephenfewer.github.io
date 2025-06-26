@@ -29,10 +29,18 @@ Awards
 
 Vulnerabilities
 ---------------
-The following 80 publicly disclosed vulnerabilities were discovered through original research.
+The following 88 publicly disclosed vulnerabilities were discovered through original research.
 
 |Date|CVE|Title|
 |-|-|-|
+|25 June 2025|CVE-2024-51977|[Multiple Brother Printers - Unauthenticated info leak](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
+|25 June 2025|CVE-2024-51978|[Multiple Brother Printers - Critical authentication bypass](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
+|25 June 2025|CVE-2024-51979|[Multiple Brother Printers - Authenticated stack based buffer overflow](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
+|25 June 2025|CVE-2024-51980|[Multiple Brother Printers - Unauthenticated SSRF via WS-Addressing ReplyTo](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
+|25 June 2025|CVE-2024-51981|[Multiple Brother Printers - Unauthenticated SSRF via WS-Eventing](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
+|25 June 2025|CVE-2024-51982|[Multiple Brother Printers - Unauthenticated Denial of Service via PJL](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
+|25 June 2025|CVE-2024-51983|[Multiple Brother Printers - Unauthenticated Denial of Service via SOAP](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
+|25 June 2025|CVE-2024-51984|[Multiple Brother Printers - Authenticated Pass Back Attack](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
 |13 Feb 2025|CVE-2025-1094|[PostgreSQL psql SQL injection](https://www.rapid7.com/blog/post/2025/02/13/cve-2025-1094-postgresql-psql-sql-injection-fixed/)|
 |03 Dec 2024|CVE-2024-52544|[Lorex 2K Indoor Wi-Fi Security Camera - Stack buffer overflow](https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/)|
 |03 Dec 2024|CVE-2024-52545|[Lorex 2K Indoor Wi-Fi Security Camera - Out of bounds heap read](https://www.rapid7.com/blog/post/2024/12/03/lorex-2k-indoor-wi-fi-security-camera-multiple-vulnerabilities-fixed/)|
