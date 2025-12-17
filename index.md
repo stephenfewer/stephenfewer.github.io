@@ -103,7 +103,7 @@ The following 88 publicly disclosed vulnerabilities were discovered through orig
 |22 July 2009||[Akamai Download Manager Stack Buffer Overflow Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=813)|
 |21 July 2009||[Novell Privileged User Manager Remote DLL Injection Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-09-046/)|
 |28 April 2009||[TIBCO SmartSockets Stack Buffer Overflow Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=785)|
-|14 Oct 2008||[Microsoft Host Integration Server Command Execution Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=745)|
+|14 Oct 2008|CVE-2008-3466|[Microsoft Host Integration Server Command Execution Vulnerability](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-059)|
 |14 Sept 2008|CVE-2008-3684|[EMC ApplicationXtender Server Admin Agent Heap Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-08-096)|
 |14 Sept 2008|CVE-2008-3685|[EMC ApplicationXtender Server Admin Agent File Upload Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-08-095)|
 |04 Jun 2008||[VMware Tools HGFS Local Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=712)|
