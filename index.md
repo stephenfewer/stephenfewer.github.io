@@ -88,40 +88,40 @@ The following 88 publicly disclosed vulnerabilities were discovered through orig
 |31 Jan 2011|CVE-2011-0276|[HP OpenView Performance Insight Server Backdoor Account Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-11-034/)|
 |14 Dec 2010|CVE-2010-3345|[Microsoft Internet Explorer Select Element Use After Free Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-288/)|
 |13 Oct 2010|CVE-2010-3552|[Oracle Java IE Browser Plugin Stack Buffer Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-206/)|
-|06 Oct 2010||[Novell iManager File Upload Remote Code Execution Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-190/)|
-|29 Sept 2010||[IBM Tivoli Storage Manager FastBack Stack Buffer Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-182/)|
+|06 Oct 2010|CVE-2010-1928|[Novell iManager File Upload Remote Code Execution Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-190/)|
+|29 Sept 2010|CVE-2010-3476|[IBM Tivoli Storage Manager FastBack Stack Buffer Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-182/)|
 |21 July 2010|CVE-2010-2773|[Novell Teaming Arbitrary File Upload Remote Code Execution Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-136/)|
 |21 June 2010|CVE-2010-0284|[Novell Access Manager File Upload Remote Code Execution Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-112/)|
-|01 June 2010||[Novell ZENworks Preboot Service Stack Buffer Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-090/)|
-|23 April 2010||[Novell ZENworks UploadServlet Remote Code Execution Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-078/)|
+|01 June 2010|CVE-2015-0786|[Novell ZENworks Preboot Service Stack Buffer Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-090/)|
+|23 April 2010|CVE-2010-5324|[Novell ZENworks UploadServlet Remote Code Execution Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-078/)|
 |05 April 2010|CVE-2010-0838|[Sun Java CMM readMabCurveData Stack Buffer Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-061/)|
 |23 Feb 2010|CVE-2010-0620|[EMC HomeBase Arbitrary File Upload Remote Code Execution Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-10-020/)|
 |08 Dec 2009|CVE-2009-3844|[HP Application Recovery Manager Stack Buffer Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-09-091/)|
 |20 Nov 2009|CVE-2009-3843|[HP Operations Manager Backdoor Account Code Execution Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-09-085/)|
-|28 Oct 2009||[EMC & OpenText Hummingbird STR Service Stack Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-09-074/)|
+|28 Oct 2009|CVE-2011-1741|[EMC & OpenText Hummingbird STR Service Stack Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-09-074/)|
 |23 Sept 2009|CVE-2009-3068|[Adobe RoboHelp Server Arbitrary File Upload and Execute Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-09-066/)|
-|22 July 2009||[Akamai Download Manager Stack Buffer Overflow Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=813)|
-|21 July 2009||[Novell Privileged User Manager Remote DLL Injection Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-09-046/)|
-|28 April 2009||[TIBCO SmartSockets Stack Buffer Overflow Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=785)|
+|22 July 2009|CVE-2009-2582|[Akamai Download Manager Stack Buffer Overflow Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=813)|
+|21 July 2009|CVE-2009-1350|[Novell Privileged User Manager Remote DLL Injection Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-09-046/)|
+|28 April 2009|CVE-2009-1291|[TIBCO SmartSockets Stack Buffer Overflow Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=785)|
 |14 Oct 2008|CVE-2008-3466|[Microsoft Host Integration Server Command Execution Vulnerability](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2008/ms08-059)|
 |14 Sept 2008|CVE-2008-3684|[EMC ApplicationXtender Server Admin Agent Heap Overflow Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-08-096)|
 |14 Sept 2008|CVE-2008-3685|[EMC ApplicationXtender Server Admin Agent File Upload Vulnerability](http://www.zerodayinitiative.com/advisories/ZDI-08-095)|
-|04 Jun 2008||[VMware Tools HGFS Local Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=712)|
-|27 May 2008||[EMC AlphaStor Server Agent Multiple Buffer Overflow Vulnerabilities](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=702)|
-|27 May 2008||[EMC AlphaStor Library Manager Command Execution Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=703)|
-|10 Apr 2008||[EMC DiskXtender Authentication Bypass Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=683)|
-|10 Apr 2008||[EMC DiskXtender File System Manager Buffer Overflow Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=684)|
-|10 Apr 2008||[EMC DiskXtender MediaStor Format String Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=685)|
-|19 Feb 2008||[EMC RepliStor Multiple Heap Overflow Vulnerabilities](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=664)|
-|09 Jan 2008||[Novell NetWare Client Local Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=637)|
-|07 Jan 2008||[Motorola netOctopus Agent Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=636)|
-|24 Dec 2007||[Novell ZENworks ESM Client Local Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=635)|
-|12 Nov 2007||[Novell NetWare Client Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=626)|
-|06 Nov 2007||[Microsoft DebugView Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=621)|
-|10 Oct 2007||[Kaspersky Web Scanner ActiveX Format String Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=606)|
+|04 Jun 2008|CVE-2007-5671|[VMware Tools HGFS Local Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=712)|
+|27 May 2008|CVE-2008-2158|[EMC AlphaStor Server Agent Multiple Buffer Overflow Vulnerabilities](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=702)|
+|27 May 2008|CVE-2008-2157|[EMC AlphaStor Library Manager Command Execution Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=703)|
+|10 Apr 2008|CVE-2008-0961|[EMC DiskXtender Authentication Bypass Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=683)|
+|10 Apr 2008|CVE-2008-0962|[EMC DiskXtender File System Manager Buffer Overflow Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=684)|
+|10 Apr 2008|CVE-2008-0963|[EMC DiskXtender MediaStor Format String Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=685)|
+|19 Feb 2008|CVE-2007-6426|[EMC RepliStor Multiple Heap Overflow Vulnerabilities](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=664)|
+|09 Jan 2008|CVE-2007-5762|[Novell NetWare Client Local Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=637)|
+|07 Jan 2008|CVE-2007-5761|[Motorola netOctopus Agent Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=636)|
+|24 Dec 2007|CVE-2007-5665|[Novell ZENworks ESM Client Local Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=635)|
+|12 Nov 2007|CVE-2007-5667|[Novell NetWare Client Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=626)|
+|06 Nov 2007|CVE-2007-4223|[Microsoft DebugView Privilege Escalation Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=621)|
+|10 Oct 2007|CVE-2007-3675|[Kaspersky Web Scanner ActiveX Format String Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=606)|
 |10 Aug 2007|CVE-2007-4335|[Qbik WinGate Remote Denial of Service Vulnerability](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-4335)|
 |04 Jan 2000|CVE-2000-0049|[NullSoft Winamp 2.10 Playlist Stack Buffer Overflow](https://seclists.org/bugtraq/2000/Jan/117)|
-|22 Dec 1999||[Netscape Navigator/Communicator 4.5 Preference File Stack Buffer Overflow](https://securiteam.com/exploits/3o5qdr5qaq/)|
+|22 Dec 1999|CVE-1999-0892|[Netscape Navigator/Communicator 4.5 Preference File Stack Buffer Overflow](https://securiteam.com/exploits/3o5qdr5qaq/)|
 
 Projects
 --------
