@@ -10,23 +10,41 @@ Summary
 
 Stephen is a software engineer specializing in low level software research and development in the fields of software vulnerabilities and exploitation, reverse engineering, and developer tooling. Excited to learn new technologies and solve complex problems.
 
-Stephen is a native English speaker based in Cork City, Ireland and can work effectively in a remote environment across teams and time zones.
+Stephen is a native English speaker based in Ireland, and can work effectively in a remote environment across teams and time zones.
 
 Contact
 -------
 
-* [LinkedIn](https://www.linkedin.com/in/stephenfewer)
-* [Twitter](https://twitter.com/stephenfewer)
-* [BlueSky](https://bsky.app/profile/stephenfewer.bsky.social)
-* [GitHub](https://github.com/stephenfewer)
+[LinkedIn](https://www.linkedin.com/in/stephenfewer) · [GitHub](https://github.com/stephenfewer) · [Twitter](https://twitter.com/stephenfewer) · [BlueSky](https://bsky.app/profile/stephenfewer.bsky.social)
 
 Awards
 ------
 
 * [Pwn2Own 2025](https://www.zerodayinitiative.com/blog/2025/10/21/pwn2own-ireland-2025-day-one-results) - Successfully competed at Pwn2Own Ireland 2025, exploiting a Home Assistant Green smart home hub.
-* [Pwn2Own 2021](https://www.zerodayinitiative.com/blog/2021/11/1/pwn2ownaustin) - Successfully competed at Pwn2Own 2021, exploiting both a Cisco RV340 and Netgear R6700v3 network router.
+* [Pwn2Own 2021](https://www.zerodayinitiative.com/blog/2021/11/1/pwn2ownaustin) - Successfully competed at Pwn2Own Austin 2021, exploiting both a Cisco RV340 and Netgear R6700v3 network router.
 * MSRC Top 100 - Awarded 30th in the Microsoft Security Response Centre (MSRC) Top 100 researchers for 2015.
 * [Pwn2Own 2011](https://www.zdnet.com/article/pwn2own-2011-ie8-on-windows-7-hijacked-with-3-vulnerabilities/) - Successfully competed at Pwn2Own 2011, exploiting Microsoft Internet Explorer (IE) 8 on Windows 7 SP1.
+
+Projects
+--------
+The following is a selection of publicly available software projects.
+
+### Security Research Tools
+
+* [**Grinder**](https://github.com/stephenfewer/grinder) - A system to automate the fuzzing of web browsers and the management of a large number of crashes.
+* [**Reflective DLL Injection**](https://github.com/stephenfewer/ReflectiveDLLInjection) - A novel library injection technique for Windows (x86, x64, ARM) that loads a DLL entirely from memory into a host process. This technique has been widely adopted across the security industry.
+
+### Reverse Engineering & Debugging
+
+* [**Relyze**](https://www.relyze.com/) - An interactive software analysis platform for disassembly, decompilation, and binary diffing of native code.
+* [**WonderLeak**](https://www.relyze.com/wonderleak.html) - A Windows allocation profiler for detecting memory leaks.
+* [**OllySocketTrace**](https://github.com/stephenfewer/OllySocketTrace) - OllyDbg plugin to trace socket operations, recording all buffers sent and received.
+* [**OllyHeapTrace**](https://github.com/stephenfewer/OllyHeapTrace) - OllyDbg plugin to trace heap operations including allocations, frees, and reallocations across multiple heaps.
+* [**OllyCallTrace**](https://github.com/stephenfewer/OllyCallTrace) - OllyDbg plugin to trace call chains for debugging stack overflows and plotting execution flow.
+
+### Systems Programming
+
+* [**NoNameOS**](https://github.com/stephenfewer/NoNameOS) - A minimal x86 operating system featuring virtual memory management, a file system, and fully pre-emptive multitasking.
 
 Vulnerabilities
 ---------------
@@ -123,16 +141,3 @@ The following 89 publicly disclosed vulnerabilities were discovered through orig
 |10 Aug 2007|CVE-2007-4335|[Qbik WinGate Remote Denial of Service Vulnerability](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-4335)|
 |04 Jan 2000|CVE-2000-0049|[NullSoft Winamp 2.10 Playlist Stack Buffer Overflow](https://seclists.org/bugtraq/2000/Jan/117)|
 |22 Dec 1999||[Netscape Navigator/Communicator 4.5 Preference File Stack Buffer Overflow](https://securiteam.com/exploits/3o5qdr5qaq/)|
-
-Projects
---------
-The following is a selection of publicly available software projects Stephen has developed.
-
-* [WonderLeak](https://www.relyze.com/wonderleak.html) is a Windows allocation profiler.
-* [Relyze](https://www.relyze.com/) is an interactive software reverse engineering tool to disassemble, decompile and binary diff native code software.
-* [Grinder](https://github.com/stephenfewer/grinder) is a system to automate the fuzzing of web browsers and the management of a large number of crashes.
-* [Reflective DLL Injection](https://github.com/stephenfewer/ReflectiveDLLInjection) is a Windows (x86, x64, ARM) library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process.
-* [OllySocketTrace](https://github.com/stephenfewer/OllySocketTrace) is a plugin for OllyDbg to trace the socket operations being performed by a process, recording all buffers being sent and received.
-* [OllyHeapTrace](https://github.com/stephenfewer/OllyHeapTrace) is a plugin for OllyDbg to trace the heap operations being performed by a process. It will monitor heap allocations and frees for multiple heaps, as well as operations such as creating or destroying heaps and reallocations.
-* [OllyCallTrace](https://github.com/stephenfewer/OllyCallTrace) is a plugin for OllyDbg to trace the call chain of a thread allowing you to monitor it for irregularities to aid in the debugging of stack based buffer overflows as well as to quickly plot the execution flow of a program you are reversing.
-* [NoNameOS](https://github.com/stephenfewer/NoNameOS) is a tiny Operating System for the x86 architecture. It is an educational system with a monolithic kernel design and a clean efficient implementation. Features include a simple virtual memory manager, a file system and fully pre-emptive multitasking.
