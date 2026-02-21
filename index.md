@@ -8,9 +8,11 @@ Stephen Fewer
 Summary
 -------
 
-Stephen is a software engineer specializing in low level software research and development in the fields of software vulnerabilities and exploitation, reverse engineering, and developer tooling. Excited to learn new technologies and solve complex problems.
+I have spent over 25 years finding and exploiting vulnerabilities in software - from [smashing stacks in Netscape Navigator back in 1999](https://www.exploit-db.com/exploits/19692) to [breaking PostgreSQL](https://www.rapid7.com/blog/post/2025/02/13/cve-2025-1094-postgresql-psql-sql-injection-fixed/) and [smart home hubs at Pwn2Own](https://www.zerodayinitiative.com/blog/2025/10/21/pwn2own-ireland-2025-day-one-results) in 2025. Along the way, I have disclosed 89 vulnerabilities across products from Microsoft, Adobe, Cisco, Oracle, JetBrains, Ivanti, Mozilla, and many others, and successfully competed at [Pwn2Own](https://en.wikipedia.org/wiki/Pwn2Own) three times (2011, 2021, 2025).
 
-Stephen is a native English speaker based in Ireland, and can work effectively in a remote environment across teams and time zones.
+Beyond vulnerability research, I build tools for the security community. I created [Reflective DLL Injection](https://github.com/stephenfewer/ReflectiveDLLInjection), a memory-only library injection technique now widely used across the security industry, and [Relyze](https://www.relyze.com/), an interactive platform for disassembly, decompilation, and binary diffing.
+
+I am based in Ireland and work effectively in remote environments across distributed teams and time zones.
 
 Contact
 -------
@@ -140,4 +142,4 @@ The following 89 publicly disclosed vulnerabilities were discovered through orig
 |10 Oct 2007||[Kaspersky Web Scanner ActiveX Format String Vulnerability](http://labs.idefense.com/intelligence/vulnerabilities/display.php?id=606)|
 |10 Aug 2007|CVE-2007-4335|[Qbik WinGate Remote Denial of Service Vulnerability](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-4335)|
 |04 Jan 2000|CVE-2000-0049|[NullSoft Winamp 2.10 Playlist Stack Buffer Overflow](https://seclists.org/bugtraq/2000/Jan/117)|
-|22 Dec 1999||[Netscape Navigator/Communicator 4.5 Preference File Stack Buffer Overflow](https://securiteam.com/exploits/3o5qdr5qaq/)|
+|22 Dec 1999||[Netscape Navigator/Communicator 4.5 Preference File Stack Buffer Overflow](https://www.exploit-db.com/exploits/19692)
