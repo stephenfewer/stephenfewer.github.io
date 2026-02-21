@@ -30,10 +30,11 @@ Awards
 
 Vulnerabilities
 ---------------
-The following 88 publicly disclosed vulnerabilities were discovered through original research.
+The following 89 publicly disclosed vulnerabilities were discovered through original research.
 
 |Date|CVE|Title|
 |-|-|-|
+|18 Feb 2026|CVE-2026-2329|[Critical Unauthenticated Stack Buffer Overflow in Grandstream GXP1600 VoIP Phones](https://www.rapid7.com/blog/post/ve-cve-2026-2329-critical-unauthenticated-stack-buffer-overflow-in-grandstream-gxp1600-voip-phones-fixed/)|
 |25 June 2025|CVE-2024-51977|[Multiple Brother Printers - Unauthenticated info leak](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
 |25 June 2025|CVE-2024-51978|[Multiple Brother Printers - Critical authentication bypass](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
 |25 June 2025|CVE-2024-51979|[Multiple Brother Printers - Authenticated stack based buffer overflow](https://www.rapid7.com/blog/post/multiple-brother-devices-multiple-vulnerabilities-fixed/)|
