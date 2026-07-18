@@ -50,10 +50,11 @@ The following is a selection of publicly available software projects.
 
 Vulnerabilities
 ---------------
-The following 91 publicly disclosed vulnerabilities were discovered through original research.
+The following 92 publicly disclosed vulnerabilities were discovered through original research.
 
 |Date|CVE|Title|
 |-|-|-|
+|14 July 2026|CVE-2026-55040|[Microsoft SharePoint JWT Token Authentication Bypass](https://www.rapid7.com/blog/post/ve-cve-2026-55040-microsoft-sharepoint-jwt-token-authentication-bypass-fixed/)|
 |01 June 2026|CVE-2026-0826|[Critical unauthenticated stack buffer overflow in HP Poly VVX and Trio VoIP Phones](https://www.rapid7.com/blog/post/ve-cve-2026-0826-critical-unauthenticated-stack-buffer-overflow-hp-poly-vvx-trio-voip-phones-fixed/)|
 |14 May 2026|CVE-2026-20182|[Critical authentication bypass in Cisco Catalyst SD-WAN Controller](https://www.rapid7.com/blog/post/ve-cve-2026-20182-critical-authentication-bypass-cisco-catalyst-sd-wan-controller-fixed/)|
 |18 Feb 2026|CVE-2026-2329|[Critical unauthenticated stack buffer overflow in Grandstream GXP1600 VoIP phones](https://www.rapid7.com/blog/post/ve-cve-2026-2329-critical-unauthenticated-stack-buffer-overflow-in-grandstream-gxp1600-voip-phones-fixed/)|
